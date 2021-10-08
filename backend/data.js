@@ -7,7 +7,8 @@ const data = {
         price: 50,
         brand: 'Nike',
         rating: 5,
-        numReviews: 3
+        numReviews: 3,
+        countInStock: 0
     },
     {
         _id: '2',
@@ -17,7 +18,8 @@ const data = {
         price: 60,
         brand: 'Nike',
         rating: 4,
-        numReviews: 7
+        numReviews: 7,
+        countInStock: 5
     },
     {
         _id: '3',
@@ -27,7 +29,8 @@ const data = {
         price: 25,
         brand: 'Nike',
         rating: 4.5,
-        numReviews: 30
+        numReviews: 30,
+        countInStock: 6
     },
     {
         _id: '4',
@@ -37,7 +40,63 @@ const data = {
         price: 25,
         brand: 'Nike',
         rating: 4.5,
-        numReviews: 30
+        numReviews: 30,
+        countInStock: 6
+    },
+    {
+        _id: '5',
+        name: 'Best Shirt',
+        category: 'Pants',
+        image: '/assets/d1.jpg',
+        price: 25,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 30,
+        countInStock: 6
+    },
+    {
+        _id: '6',
+        name: 'Best Shirt',
+        category: 'Pants',
+        image: '/assets/d1.jpg',
+        price: 25,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 30,
+        countInStock: 6
+    },
+    {
+        _id: '7',
+        name: 'Best Shirt',
+        category: 'Pants',
+        image: '/assets/d1.jpg',
+        price: 25,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 30,
+        countInStock: 6
+    },
+    {
+        _id: '8',
+        name: 'Best Shirt',
+        category: 'Pants',
+        image: '/assets/d1.jpg',
+        price: 25,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 30,
+        countInStock: 6
+    },
+    {
+        _id: '9',
+        name: 'Best Shirt',
+        category: 'Pants',
+        image: '/assets/d1.jpg',
+        price: 25,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 30,
+        countInStock: 6
     }]
 };
 

@@ -212,3 +212,18 @@ a:hover{
 .button:hover{
   border: .1rem #404040 solid;
 }
+
+/* Cart */
+
+.cart {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cart-list{
+  flex: 3 1 60rem;
+}
+
+.cart-action{
+  flex: 1 1 20;
+}

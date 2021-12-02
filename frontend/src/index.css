@@ -213,6 +213,10 @@ a:hover{
   background-color: #ff8000;
 }
 
+button{
+  font-size: 1.6rem;
+}
+
 .full-width{
   width: 100%;
 }
@@ -248,6 +252,7 @@ a:hover{
 
 .cart-action{
   flex: 1 1 20rem;
+  background-color: #f8f8f8;
   border-radius: .5rem;
   padding: 1rem;
 }
@@ -261,7 +266,7 @@ a:hover{
 .cart-list-container li{
   display: flex;
   justify-content: space-between;
-  
+  align-items: flex-end;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border-bottom: .1rem #c0c0c0 solid;
@@ -290,8 +295,6 @@ a:hover{
   font-size: 2.5rem;
   text-align: right;
 }
-
-
 /* forms */
 
 .form{

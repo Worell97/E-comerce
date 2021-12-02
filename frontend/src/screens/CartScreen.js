@@ -31,6 +31,7 @@ function CartScreen(props){
                         Price
                     </div>
                 </li>
+                {console.log(cartItems)}
                 {cartItems.length === 0 ? 
                     <div>Cart is empty </div> :
                     cartItems.map( item => 

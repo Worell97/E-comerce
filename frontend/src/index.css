@@ -47,6 +47,7 @@ button{
 .header-links a{
   color: #ffffff;
   text-decoration: none;
+  margin-right: 15px;
 }
 .header-links a:hover{
   color: #ff8000;    
